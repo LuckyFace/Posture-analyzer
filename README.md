@@ -16,5 +16,6 @@ The above application is used to measure postural angles, namely, anterior flexi
   
   #. Try to take the picture as perpendicular to the floor as possible.
   
-![image](https://user-images.githubusercontent.com/13765485/129559668-d549d540-5c67-4a33-a9ea-05dce69fa64b.png)
+![image](https://user-images.githubusercontent.com/13765485/129567865-fe770398-c6c9-4e3e-a29c-a711e808aeae.png)
+
 
