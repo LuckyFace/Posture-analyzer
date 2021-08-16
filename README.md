@@ -1,4 +1,5 @@
 # Posture-analyzer v 1.0
+by Jung Hwan Shin from Seoul National University Hospital, Department of Neurology
 The above application is used to measure postural angles, namely, anterior flexion angle and dropped head angle based on pose estimation algorithm (Openpose)
 
 1. First download the zip files
