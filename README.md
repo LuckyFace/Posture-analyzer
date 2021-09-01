@@ -3,11 +3,12 @@ by Jung Hwan Shin from Seoul National University Hospital, Department of Neurolo
 
 The above application is used to measure postural angles, namely, anterior flexion angle and dropped head angle based on pose estimation algorithm (Openpose, Cao Z, Hidalgo G, Simon T, Wei SE, Sheikh Y. OpenPose: Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields. IEEE Trans Pattern Anal Mach Intell 2021;43(1):172-186.)
 
-1. First download the zip files
-2. Extract in any folder of interest
-3. Run Multipose_app.exe
+1. Download MATLAB runtime and install (https://ssd.mathworks.com/supportfiles/downloads/R2019a/Release/9/deployment_files/installer/complete/win64/MATLAB_Runtime_R2019a_Update_9_win64.zip)
+2. First download the zip files
+3. Extract in any folder of interest
+4. Run Multipose_app.exe 
 
-4. Browse the lateral picture of the participant.
+5. Browse the lateral picture of the participant.
 
   #. Please have only one figure (recommend jpg) in the target folder.
   
